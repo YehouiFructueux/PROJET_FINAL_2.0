@@ -35,7 +35,7 @@ gestion-reservations/
 
 1. Cloner le dépôt
 
-git clone https://github.com/VOTRE-NOM/gestion-reservations.git
+git clone https://github.com/YehouiFructueux/gestion-reservations.git
 
 2. Accéder au projet
 
